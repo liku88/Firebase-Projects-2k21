@@ -1,0 +1,14 @@
+.App{
+  background-color: beige;
+  height: 100vh;
+  display: grid;
+  place-items: center;
+}
+.appContainer{
+  display: flex;
+  background-color: coral;
+  height: 90vh;
+  width: 90vw;
+  margin-top: -50px;
+  box-shadow: 10px 10px 8px 10px #888888;
+}
